@@ -1,0 +1,24 @@
+{
+  "name": "PROXY-Agata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Etsy-FEC/PROXY-Agata.git"
+  },
+  "keywords": [],
+  "author": "Agata Drozdowska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Etsy-FEC/PROXY-Agata/issues"
+  },
+  "homepage": "https://github.com/Etsy-FEC/PROXY-Agata#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
